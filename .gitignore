@@ -1,0 +1,19 @@
+# NPM
+node_modules/
+
+# React bundle (Webpack)
+bundle/
+
+# Packaged app (electron-builder)
+dist/
+
+# Credentials
+.env
+
+# Apple provisioning profile
+*.provisionprofile
+
+# Generated website assets
+website/index.js
+website/index.js.map
+website/styles/minireset.min.css
